@@ -1,0 +1,32 @@
+/* mobile view */
+
+@media(min-width:320px){
+	.col1, .col2,.col3{
+		width:100%;
+	}
+}
+
+/* ipad view */
+@media(min-width:760px){
+	.col1, .col2,.col3{
+		width:100%;
+	}
+}
+
+/* desktop view */
+
+@media(min-width:960px){
+	.col1{
+	width:10%;
+	padding:10px;
+	
+}
+.col2{
+	width:30%;
+	padding:10px 10px 10px 30px;
+}
+.col3{
+	width:40%;
+	padding:10px 35px 10px 10px;
+}
+}

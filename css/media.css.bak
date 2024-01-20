@@ -1,0 +1,20 @@
+/* mobile view */
+
+@media(min-width:320px){
+	.col1, .col2,.col3{
+		width:100%;
+	}
+}
+
+/* ipad view */
+@media(min-width:760px){
+	.col1, .col2,.col3{
+		width:100%;
+	}
+}
+
+/* desktop view */
+
+@media(min-width:960px){
+	
+}
